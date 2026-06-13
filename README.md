@@ -32,7 +32,7 @@ We used **ROC-AUC** as our main evaluation metric throughout, since the dataset 
 
 ## Dataset
 
-**Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/) (Yeh & Lien, 2009)
+**Source:** [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) (Yeh & Lien, 2009)
 
 | File | Description |
 |------|-------------|
